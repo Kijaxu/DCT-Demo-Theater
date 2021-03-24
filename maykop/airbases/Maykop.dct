@@ -1,0 +1,12 @@
+objtype = "airbase"
+name = "Maykop-Khanskaya"
+coalition = 2
+subordinates = {
+	"MaykopAirbaseDefense",
+	"VMFA251",
+	"104FS",
+}
+desc = "Maykop Airbase"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 20

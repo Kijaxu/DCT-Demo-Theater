@@ -1,0 +1,7 @@
+region = {
+    ["name"] = "krymsk",
+    ["priority"] = 20,
+		["airspace"] = true,
+    ["limits"] = {
+    },
+}
