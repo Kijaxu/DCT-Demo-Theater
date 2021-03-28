@@ -1,8 +1,8 @@
 region = {
-		["name"] = "Krymsk",
-		["priority"] = 30,
+		["name"] = "Sukhumi",
+		["priority"] = 20,
 		["limits"] = 	{
-			["airbase"] = 		{
+			["ammodump"] = 		{
 				["min"] = 1,
 				["max"] = 1
 			}

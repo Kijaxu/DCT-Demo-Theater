@@ -1,8 +1,8 @@
 region = {
-		["name"] = "Krymsk",
-		["priority"] = 30,
+		["name"] = "Novorossiysk",
+		["priority"] = 20,
 		["limits"] = 	{
-			["airbase"] = 		{
+			["port"] = 		{
 				["min"] = 1,
 				["max"] = 1
 			}

@@ -1,7 +1,0 @@
-region = {
-    ["name"] = "maykop",
-    ["priority"] = 20,
-		["airspace"] = true,
-    ["limits"] = {
-    },
-}

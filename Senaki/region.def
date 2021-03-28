@@ -1,10 +1,10 @@
 region = {
-		["name"] = "Krymsk",
+		["name"] = "Senaki",
 		["priority"] = 30,
 		["limits"] = 	{
 			["airbase"] = 		{
-				["min"] = 1,
-				["max"] = 1
+				["min"] = 2,
+				["max"] = 2,
 			}
 		}
 	}
